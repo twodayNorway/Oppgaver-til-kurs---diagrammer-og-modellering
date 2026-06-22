@@ -1,0 +1,21 @@
+> Task :run
+Loading teams...
+
+Starting match simulation for Summer Foosball Match Simulator
+Match: Stack Overflow Strikers vs NullPointer Ninjas
+Match started
+Henrik scored for Stack Overflow Strikers
+Score is now 1-0
+Olivier scored for Stack Overflow Strikers
+Score is now 2-0
+Match ended
+Winner: Stack Overflow Strikers
+
+Updating persistent scoreboard at: src/main/resources/scoreboard.json
+
+Persistent scoreboard:
+Team | P | W | D | L | GF | GA | GD | Pts
+Stack Overflow Strikers | 1 | 1 | 0 | 0 | 2 | 0 | 2 | 3
+NullPointer Ninjas | 1 | 0 | 0 | 1 | 0 | 2 | -2 | 0
+
+Match simulation finished

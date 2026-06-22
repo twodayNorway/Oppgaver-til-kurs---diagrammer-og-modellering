@@ -1,0 +1,25 @@
+{
+  "simulationName": "Summer Foosball Match Simulator",
+  "teams": [
+    {
+      "name": "NullPointer Ninjas",
+      "players": ["Brage", "Aksel", "Mattis"]
+    },
+    {
+      "name": "Backend Bandits",
+      "players": ["Tonje", "Hanna", "Thale"]
+    },
+    {
+      "name": "Merge Conflict FC",
+      "players": ["Åse", "Aksel", "Herman"]
+    },
+    {
+      "name": "Git Push United",
+      "players": ["Tiina", "Helena", "Faith"]
+    },
+    {
+      "name": "Stack Overflow Strikers",
+      "players": ["Helena", "Olivier", "Henrik"]
+    }
+  ]
+}
