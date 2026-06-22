@@ -1,1 +1,1 @@
-# Oppgaver-til-kurs---diagrammer-og-modellering
+# Oppgaver til kurs - diagrammer og modellering
